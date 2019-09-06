@@ -1,4 +1,4 @@
-# project-Python-03-Data Analysis (w/o using a regression)
+# 03-Data Analysis (w/o using a regression)
 
 __Case-03.__ Investigate a Dataset (No-show appointments Data)
   - package: numpy, pandas, matplotlib, seaborn
